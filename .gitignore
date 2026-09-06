@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+frontend/.wrangler/
+frontend/.next/
+.env
+*.log
